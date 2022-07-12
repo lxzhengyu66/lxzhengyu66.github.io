@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Xiyuan&#39;s Personal Website</title>
+    <link>https://xiyuanbao.github.io/home/</link>
+    <description>Recent content in Homes on Xiyuan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xiyuanbao.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://xiyuanbao.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/home/about/</guid>
+      <description>Biography Hi, I am Xiyuan Bao, a senior undergraduate in USTC majoring in geophysics, supervised by Pro. Wei Leng. Also I am minoring in CS and will receive a certificate for half credits of second degree in 2018. My research centers around geodynamic modeling. This summer I was transferred to Pro. Lijun Liu&amp;rsquo;s group at UIUC, dedicated to constrain the nature of LLSVPs using observed geoid and dynamic topography. Meanwhile, as the leader of a National Innovation Program, my role is to examine the possibility of certain origin of LLSVPs together with another teammate.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://xiyuanbao.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://xiyuanbao.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://xiyuanbao.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

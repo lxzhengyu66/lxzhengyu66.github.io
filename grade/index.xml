@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grades on Xiyuan&#39;s Personal Website</title>
+    <link>https://xiyuanbao.github.io/grade/</link>
+    <description>Recent content in Grades on Xiyuan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
+    <lastBuildDate>Sat, 30 Sep 2017 12:32:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiyuanbao.github.io/grade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GPA in different ways</title>
+      <link>https://xiyuanbao.github.io/grade/gpa/</link>
+      <pubDate>Sat, 30 Sep 2017 12:32:54 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/grade/gpa/</guid>
+      <description>My major GPA    Improved 4.0 - 1 Improved 4.0 - 2 PKU 4.0 Canada 4.3 USTC 4.3     3.64 3.64 3.60 3.96 3.64    GPA in USTC    0~100 F-A 0~4.3     100~95 A+ 4.3   94~90 A 4.0   89~85 A- 3.7   84~82 B+ 3.3   81~78 B 3.0   77~75 B- 2.</description>
+    </item>
+    
+    <item>
+      <title>Grades</title>
+      <link>https://xiyuanbao.github.io/grade/grade/</link>
+      <pubDate>Sat, 30 Sep 2017 12:32:54 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/grade/grade/</guid>
+      <description>Standard Tests TOEFL: 107 Reading: 29, Listening: 29, Speaking: 22, Writing: 27
+GRE: 321 Verbal: 152, Quantitative: 169, Analytical Writing: 3.0
+I got good grades in most of my specialized courses, e.g. Principle and Application of Seismology(92), Engineering Geology(98), Theory of Geoelectricity and Geomagnetism(95), The Gravity and the Tide of the Earth(95) and Electrodynamics(95). I believe coding is a powerful tool to realize my ideas , which is the reason why I choose half of the courses in CS degree, i.</description>
+    </item>
+    
+  </channel>
+</rss>

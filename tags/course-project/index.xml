@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Project on Xiyuan&#39;s Personal Website</title>
+    <link>https://xiyuanbao.github.io/tags/course-project/</link>
+    <description>Recent content in Course Project on Xiyuan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
+    <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiyuanbao.github.io/tags/course-project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The westward drift of the non-dipole part of the earth&#39;s magnetic field</title>
+      <link>https://xiyuanbao.github.io/post/geomagnetism/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/post/geomagnetism/</guid>
+      <description>Westward drift of the non-dipole part is nature of great importance of the Geomagnetic field. In the class:Theory of Geoelectricity and Geomagnetism we were asked to visualize this trend. Using spherical harmonic coefficients from IGRF (International Geomagnetic Reference Field) up to 12 degree I was able to plot the z component of non-dipole field from 1900 to 2015 with Matlab and combine them in a GIF, you can see the drift is very obvious.</description>
+    </item>
+    
+    <item>
+      <title>Touch location learning of phone screen basing motion sensors</title>
+      <link>https://xiyuanbao.github.io/post/sensor/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/post/sensor/</guid>
+      <description>In the final project of Principles of artificial intelligence, we managed to establish a neural network using tensorflow , tflearn and sklearn. We wrote our own JS collecting program and then analyzed the wave of motion sensors of smartphones and defined an touching event. Better than previous study deducing only 4-digit PIN, our model can give coordinates of the touching location on the phone screen and successfully recognized a sentence.</description>
+    </item>
+    
+  </channel>
+</rss>

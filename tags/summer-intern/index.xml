@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summer Intern on Xiyuan&#39;s Personal Website</title>
+    <link>https://xiyuanbao.github.io/tags/summer-intern/</link>
+    <description>Recent content in Summer Intern on Xiyuan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xiyuanbao.github.io/tags/summer-intern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Summer Intern</title>
+      <link>https://xiyuanbao.github.io/project/summer-intern/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/project/summer-intern/</guid>
+      <description>Origin of the two LLSVPs inside the lower mantle is heavily debated,from purely thermal to purely compositional. These features are presumably very important for modulating Earth’s long-term evolution such as the main heat source for generating mantle plumes and surface volcanism. We want to place better constraints on these mantle structures through examining their geodynamic properties.
+With the finite element code CitcomS, I built a thermal chemical model to explore the response of different viscosity profile (and LVV,lateral viscosity variation) , scaling between tomography and density and chemical buoyancy.</description>
+    </item>
+    
+  </channel>
+</rss>

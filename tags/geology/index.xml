@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geology on Xiyuan&#39;s Personal Website</title>
+    <link>https://xiyuanbao.github.io/tags/geology/</link>
+    <description>Recent content in Geology on Xiyuan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
+    <lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiyuanbao.github.io/tags/geology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Field trip at Chaohu, Anhui</title>
+      <link>https://xiyuanbao.github.io/post/chaohu/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/post/chaohu/</guid>
+      <description>7-day geology field trip at Chaohu during the holiday of National Day
+fault coal fossil of Algae fault core of syncline dislocation breccia snail guys </description>
+    </item>
+    
+  </channel>
+</rss>

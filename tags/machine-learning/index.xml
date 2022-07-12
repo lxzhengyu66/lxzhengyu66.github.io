@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Xiyuan&#39;s Personal Website</title>
+    <link>https://xiyuanbao.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Xiyuan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
+    <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://xiyuanbao.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Touch location learning of phone screen basing motion sensors</title>
+      <link>https://xiyuanbao.github.io/post/sensor/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/post/sensor/</guid>
+      <description>In the final project of Principles of artificial intelligence, we managed to establish a neural network using tensorflow , tflearn and sklearn. We wrote our own JS collecting program and then analyzed the wave of motion sensors of smartphones and defined an touching event. Better than previous study deducing only 4-digit PIN, our model can give coordinates of the touching location on the phone screen and successfully recognized a sentence.</description>
+    </item>
+    
+  </channel>
+</rss>
